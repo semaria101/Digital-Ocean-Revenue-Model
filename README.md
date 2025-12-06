@@ -7,7 +7,7 @@ The model evaluates historical trends, calculates key SaaS KPIs, and provides a 
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project focuses on understanding DigitalOcean’s monetization and customer expansion efficiency by analyzing:
 
@@ -21,7 +21,7 @@ The goal of this model is to highlight how DigitalOcean is expanding revenue thr
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - **DOCN_Revenue_Model_2026.xlsx**  
   Complete Excel model containing KPI calculations, revenue drivers, and forecast outputs.
@@ -31,7 +31,7 @@ The goal of this model is to highlight how DigitalOcean is expanding revenue thr
 
 ---
 
-## 🔧 Tools & Methods Used
+## Tools & Methods Used
 
 - Excel financial modeling  
 - SaaS metric analysis (ARR, ARPU, NDR)  
@@ -41,7 +41,7 @@ The goal of this model is to highlight how DigitalOcean is expanding revenue thr
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **ARR grew 15.7% YoY**, reflecting strong recurring revenue momentum.  
 - **ARPU increased from $100.71 → $116.20**, demonstrating deepening monetization of existing customers.  
@@ -50,7 +50,7 @@ The goal of this model is to highlight how DigitalOcean is expanding revenue thr
 
 ---
 
-## 🧩 Purpose of This Project
+## Purpose of This Project
 
 This model serves as a practical demonstration of:
 
@@ -62,11 +62,11 @@ It is intended for portfolio demonstration and educational use.
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you have questions about the model or would like to collaborate, feel free to reach out:
 
-**Semaria Kebede**  
+Semaria Kebede  
 Email: skebe002@ucr.edu  
 LinkedIn: https://www.linkedin.com/in/semariakebede/
 ---
